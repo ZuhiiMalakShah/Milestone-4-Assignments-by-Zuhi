@@ -1,6 +1,6 @@
 import Image from 'next/image'
 import React from 'react'
-import ghaniya from "../../../public/zuhi.png"
+import ghaniya from "../../../public/ghaniya.png"
 const page = () => {
   return (
     <div>
