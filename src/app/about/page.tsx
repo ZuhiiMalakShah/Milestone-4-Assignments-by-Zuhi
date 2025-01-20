@@ -24,11 +24,11 @@ const page = () => {
       </p>
       <div className="flex justify-center">
         <button className="inline-flex text-black bg-white border-0 py-2 px-6 focus:outline-none rounded text-lg">
-        <a href="https://github.com/Ghaniya08">Explor my work</a>
+        <a href="https://github.com/ZuhiiMalakShah">Explor my work</a>
         
         </button>
         <button className="ml-4 inline-flex text-black bg-white border-0 py-2 px-6 focus:outline-none rounded text-lg">
-        <a href="https://pk.linkedin.com/in/ghaniya-khan-138919308">Contact me</a>
+        <a href="https://www.linkedin.com/in/zuhii-shah-2ba9a5302/">Contact me</a>
         </button>
       </div>
     </div>
