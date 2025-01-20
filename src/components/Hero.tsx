@@ -16,7 +16,7 @@ const Hero = () => {
     </div>
       <h1 className="scroll-m-20 text-xl font-extrabold text-center mb-[10px] tracking-tight lg:text-2xl text-white ">Welcome to the</h1>
       <h1 className="scroll-m-20 text-4xl font-extrabold text-center lg:mb-[40px] tracking-tight lg:text-5xl text-white ">
-       Simple Quotes Website
+       Quotes Simple Website by Aliya Manzoor
       </h1>
       <p className="mb-8 leading-relaxed">
       Quotes are statements, phrases, or sentences that express wisdom, inspiration, or advice are taken from a person, book, or other source, and repeated or referenced in another context. They are often used to convey a message, express an opinion, or provide insight into a particular topic or issue.
