@@ -16,7 +16,7 @@ async function Navbar  ()  {
     <div>
       <div className='flex justify-between text-white font-bold px-10 py-5'>
         <div>
-            <h1 className='text-2xl'>Ghaniya Khan</h1>
+            <h1 className='text-2xl'>Aliya Manzoor</h1>
         </div>
         <div className='hidden lg:block'>
             <ul className='flex gap-11 '>
